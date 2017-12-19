@@ -51,7 +51,7 @@
 
 6. Publish to Azure, verify index.html page loads properly on published Azure site. 
 
-    ![Verify index.html page loads properly after publish](_images/20_OpenExistingWebApp/publish_default.png)
+    ![Verify index.html page loads properly after publish](_images/20_OpenExistingWebApp/publish_default.PNG)
 
 7. If you publish a project with InAuth,  Register a new user on the published site and log in .
 
